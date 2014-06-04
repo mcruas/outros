@@ -1,0 +1,9 @@
+This is what I usually do, for my (#!) Openbox . . . I go to http://box-look.com
+
+Go the the Openbox Themes section, find what looks nice, download the 'tar' file. (save to my Downloads folder)
+
+Click on the 'tar' and extract the file ... then, go to ~/usr/share/themes (Open as Admin/Root) and copy the extracted 'tar' folder to Themes.
+
+Close everything and in the Menu  >  Settings>Openbox>Reconfigure
+
+Done ... open Settings>Openbox>GUI Config Tool and 'open' the new theme.
